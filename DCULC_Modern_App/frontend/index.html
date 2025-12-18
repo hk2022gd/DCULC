@@ -87,19 +87,6 @@
                                 style="width: auto; padding: 0.75rem 1rem;">验证</button>
                         </div>
                         <div id="verify-msg" style="font-size: 0.75rem; margin-top: 0.5rem;"></div>
-
-                        <!-- Password Change Section (shown after verification) -->
-                        <div id="password-change-group"
-                            style="display: none; margin-top: 1rem; padding-top: 0.5rem; border-top: 1px dashed rgba(255,255,255,0.1);">
-                            <label>修改密码 (HEX)</label>
-                            <div style="display:flex; gap: 0.5rem;">
-                                <input type="text" id="input-new-password" placeholder="新密码"
-                                    style="text-transform: uppercase;">
-                                <button class="btn btn-secondary" id="btn-change-password"
-                                    style="width: auto; padding: 0.75rem 1rem;">修改</button>
-                            </div>
-                            <div id="change-msg" style="font-size: 0.75rem; margin-top: 0.5rem;"></div>
-                        </div>
                     </div>
                 </div>
 
@@ -146,6 +133,17 @@
                         <button class="btn" id="btn-load" style="background: var(--text-secondary); color: #1e1e2e;">载入
                             Dump</button>
                         <input type="file" id="file-input" accept=".dump,.bin" style="display: none;">
+                    </div>
+                </div>
+
+                <!-- Password Change Section (shown after verification) -->
+                <div id="password-change-group" class="panel-section" style="display: none;">
+                    <div class="section-title">修改密码</div>
+                    <div style="display:flex; flex-direction: column; gap: 0.5rem;">
+                        <input type="text" id="input-new-password" placeholder="新密码 (HEX)"
+                            style="text-transform: uppercase;">
+                        <button class="btn btn-primary" id="btn-change-password">修改密码</button>
+                        <div id="change-msg" style="font-size: 0.75rem;"></div>
                     </div>
                 </div>
             </aside>

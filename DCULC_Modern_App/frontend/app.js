@@ -290,11 +290,7 @@ async function changePassword() {
         const data = await res.json();
 
         if (data.status === 'ok') {
-            let msg = "密码修改成功！";
-            if (data.read_back) {
-                msg += ` 查询返回: ${data.read_back}`;
-            }
-            els.changeMsg.textContent = msg;
+            els.changeMsg.textContent = "密码修改成功！";
             els.changeMsg.style.color = "var(--success-color)";
 
             // Update the password input field with new password
