@@ -1,0 +1,57 @@
+unit drv_unit;
+ interface
+
+ Function IC_InitComm(port:smallint):longint;stdcall;
+ far;external 'dculc.dll' name 'IC_InitComm';
+ Function IC_ExitComm(idComDev:longint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ExitComm';
+ Function IC_Status(idComDev:longint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Status';
+ Function IC_Down(idComDev:longint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Down';
+ Function IC_InitType(idComDev:longint;ctype:smallint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_InitType';
+
+ Function IC_ReadCount_SLE4442(idComDev:longint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ReadCount_SLE4442';
+ Function IC_CheckPass_4442hex(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_CheckPass_4442hex';
+ Function IC_CheckPass_SLE4442(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_CheckPass_SLE4442';
+ Function IC_ChangePass_4442hex(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ChangePass_4442hex';
+ Function IC_ChangePass_SLE4442(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ChangePass_SLE4442';
+ Function IC_Read_Hex(idComDev:longint;offset,len:smallint;databuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Read_Hex';
+ Function IC_Write_Hex(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write_Hex';
+ Function IC_Read(idComDev:longint;offset,len:smallint;databuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Read';
+ Function IC_Write(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write';
+
+ Function IC_ReadCount_SLE4428(idComDev:longint):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ReadCount_SLE4428';
+ Function IC_CheckPass_4428hex(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_CheckPass_4428hex';
+ Function IC_ChangePass_4428hex(idComDev:longint;password:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_ChangePass_4428hex';
+ function IC_WriteWithProtection(IDCEV:longint; offset,len:smallint;writebuff:pchar):smallint;
+ stdcall;far;external 'dculc.dll' name 'IC_WriteWithProtection';
+  function IC_ReadWithProtection(IDCEV:longint; offset,len:smallint;buff:pchar):smallint;
+ stdcall;far;external 'dculc.dll' name 'IC_ReadWithProtection';
+
+ Function IC_Write24(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write24';
+ Function IC_Write24_hex(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write24_Hex';
+  Function IC_Write64(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write64';
+ Function IC_Write64_hex(idComDev:longint;offset,len:smallint;writebuffer:pchar):smallint;stdcall;
+ far;external 'dculc.dll' name 'IC_Write64_Hex';
+
+ 
+ implementation
+
+end.

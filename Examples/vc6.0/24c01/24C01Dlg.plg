@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 24C01Dlg - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3B66.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/24C01Dlg.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\DCULC\Examples\vc6.0\24c01\24C01Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3B66.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3B67.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/24C01Dlg.pdb" /debug /machine:I386 /out:"Debug/24C01Dlg.exe" /pdbtype:sept 
+.\Debug\24C01Dlg.obj
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3B67.tmp"
+<h3>Output Window</h3>
+Compiling...
+24C01Dlg.cpp
+Linking...
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_InitType@8
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_Status@4
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_InitComm@4
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_Down@4
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_Read@16
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_Write24@16
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_CheckCard@4
+24C01Dlg.obj : error LNK2001: unresolved external symbol _IC_ExitComm@4
+nafxcwd.lib(thrdcore.obj) : error LNK2001: unresolved external symbol __endthreadex
+nafxcwd.lib(thrdcore.obj) : error LNK2001: unresolved external symbol __beginthreadex
+libcd.lib(crt0.obj) : error LNK2001: unresolved external symbol _main
+Debug/24C01Dlg.exe : fatal error LNK1120: 11 unresolved externals
+Ö´ÐÐ link.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+24C01Dlg.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

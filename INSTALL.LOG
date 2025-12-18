@@ -1,0 +1,901 @@
+***  Installation Started 04/23/2020 20:27  ***
+Title: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷ Installation
+Source: G:\DCULC.EXE | 08-15-2007 | 17:20:44 | 766828
+Made Dir: C:\DCULC
+File Copy: C:\DCULC\UNWISE.EXE | 05-10-2001 | 10:04:28 | | 162304 | 432c52a3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\DCULC\dculc.exe | 07-25-2007 | 16:56:28 | 2.0.0.3 | 577536 | 619cbd27
+Made Dir: C:\DCULC\Examples
+Made Dir: C:\DCULC\Examples\delphi3.0
+Made Dir: C:\DCULC\Examples\delphi3.0\24c01
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.cfg | 04-30-2005 | 14:15:42 | | 386 | 72845ecb
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dof | 04-30-2005 | 14:15:42 | | 1414 | 8d7c136b
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dpr | 01-21-2001 | 15:59:56 | | 237 | 9a5c2b4f
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.res | 04-30-2005 | 14:05:00 | | 876 | 57aba1c5
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.dcu | 12-29-2006 | 17:45:50 | | 2111 | b431ebd3
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.pas | 12-29-2006 | 17:45:24 | | 2424 | c66903d2
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.~pas | 12-28-2006 | 10:06:06 | | 3387 | a05f8a4
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dcu | 04-30-2005 | 14:22:04 | | 6106 | 9e765d49
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.ddp | 01-03-2007 | 16:48:20 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dfm | 01-03-2007 | 16:48:12 | | 1560 | 47abc07c
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~ddp | 12-28-2006 | 10:06:52 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~dfm | 12-28-2006 | 10:04:00 | | 1560 | f04b2087
+File Copy: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+Made Dir: C:\DCULC\Examples\delphi3.0\24c64
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.cfg | 04-30-2005 | 14:29:44 | | 386 | 72845ecb
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dof | 04-30-2005 | 14:29:44 | | 1414 | 8d7c136b
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dpr | 09-09-2003 | 17:57:24 | | 309 | 52d9cd63
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.res | 04-30-2005 | 14:26:56 | | 876 | 57aba1c5
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.dcu | 12-29-2006 | 17:46:56 | | 2111 | 19617b53
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.pas | 12-29-2006 | 17:46:48 | | 2423 | b4396c25
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.~pas | 12-28-2006 | 10:09:04 | | 5748 | d1161db4
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dcu | 01-03-2007 | 16:47:34 | | 5983 | a5bded01
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.ddp | 01-03-2007 | 16:47:32 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dfm | 01-03-2007 | 16:47:14 | | 1560 | b3ccc6
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.pas | 01-03-2007 | 16:47:22 | | 2622 | ca9cbc02
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~ddp | 04-30-2005 | 14:29:30 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~dfm | 01-21-2001 | 16:56:12 | | 1560 | b7532c3d
+File Copy: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~pas | 04-30-2005 | 14:27:30 | | 2609 | 1b93dd65
+Made Dir: C:\DCULC\Examples\delphi3.0\4428
+File Copy: C:\DCULC\Examples\delphi3.0\4428\demo4428.cfg | 01-03-2007 | 16:45:28 | | 386 | 513f8f4d
+File Copy: C:\DCULC\Examples\delphi3.0\4428\demo4428.dof | 01-03-2007 | 16:45:28 | | 1414 | 8d7c136b
+File Copy: C:\DCULC\Examples\delphi3.0\4428\demo4428.dpr | 01-05-2004 | 14:06:12 | | 306 | 39537ff7
+File Copy: C:\DCULC\Examples\delphi3.0\4428\demo4428.res | 04-30-2005 | 14:30:04 | | 876 | 57aba1c5
+File Copy: C:\DCULC\Examples\delphi3.0\4428\drv_unit.dcu | 12-29-2006 | 17:49:30 | | 2660 | 9e010413
+File Copy: C:\DCULC\Examples\delphi3.0\4428\drv_unit.pas | 12-29-2006 | 17:47:54 | | 3148 | d97e636b
+File Copy: C:\DCULC\Examples\delphi3.0\4428\drv_unit.~pas | 12-28-2006 | 10:12:24 | | 6472 | fd1d3e65
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.dcu | 01-03-2007 | 16:45:02 | | 7711 | 13301084
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.ddp | 01-03-2007 | 16:45:26 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.dfm | 01-03-2007 | 16:44:00 | | 1905 | 705bec98
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.pas | 01-03-2007 | 16:44:26 | | 4091 | 731fb05d
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.~ddp | 12-29-2006 | 17:49:28 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.~dfm | 01-05-2004 | 13:43:34 | | 1905 | f0fecadb
+File Copy: C:\DCULC\Examples\delphi3.0\4428\Test4428.~pas | 12-29-2006 | 17:49:08 | | 4078 | 1160d389
+Made Dir: C:\DCULC\Examples\delphi3.0\4442
+File Copy: C:\DCULC\Examples\delphi3.0\4442\demo4442.cfg | 01-03-2007 | 16:40:40 | | 386 | 513f8f4d
+File Copy: C:\DCULC\Examples\delphi3.0\4442\demo4442.dof | 01-03-2007 | 16:40:40 | | 1414 | 8d7c136b
+File Copy: C:\DCULC\Examples\delphi3.0\4442\demo4442.dpr | 09-10-2003 | 10:26:14 | | 304 | 9a2e61ea
+File Copy: C:\DCULC\Examples\delphi3.0\4442\demo4442.res | 04-30-2005 | 14:32:02 | | 876 | 57aba1c5
+File Copy: C:\DCULC\Examples\delphi3.0\4442\drv_unit.dcu | 12-29-2006 | 18:08:50 | | 2111 | 3a5a0cf8
+File Copy: C:\DCULC\Examples\delphi3.0\4442\drv_unit.pas | 12-29-2006 | 18:08:36 | | 2424 | bcc4889b
+File Copy: C:\DCULC\Examples\delphi3.0\4442\drv_unit.~pas | 12-28-2006 | 10:13:12 | | 5735 | 22b4e299
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.dcu | 01-03-2007 | 16:36:34 | | 7180 | 709b549a
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.ddp | 01-03-2007 | 16:40:38 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.dfm | 01-03-2007 | 16:38:26 | | 1905 | 91c09ce3
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.~ddp | 01-03-2007 | 16:36:30 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.~dfm | 01-21-2001 | 15:29:40 | | 1905 | 1165baa0
+File Copy: C:\DCULC\Examples\delphi3.0\4442\Test4442.~pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+Made Dir: C:\DCULC\Examples\delphi3.0\cpu
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.cfg | 12-10-2003 | 13:52:18 | | 386 | ac143ce2
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dof | 12-10-2003 | 13:52:18 | | 1096 | 811e47ad
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dpr | 12-10-2003 | 13:52:18 | | 233 | 84b6606d
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.res | 12-10-2003 | 11:13:50 | | 876 | 57aba1c5
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dcu | 01-03-2007 | 16:34:12 | | 5471 | 305b9940
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.ddp | 01-03-2007 | 16:34:10 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.pas | 01-03-2007 | 16:34:10 | | 2044 | 551b4278
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~ddp | 01-03-2007 | 16:33:36 | | 51 | 4fc2fcbe
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~pas | 01-03-2007 | 16:33:16 | | 2029 | afec9ec7
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.dcu | 12-29-2006 | 18:09:36 | | 822 | 604ef64
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas | 12-28-2006 | 10:13:52 | | 679 | e7d082e7
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas.bak | 12-10-2003 | 14:48:56 | | 684 | 74e68f73
+File Copy: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.~pas | 04-28-2005 | 10:10:28 | | 674 | 164a3a5
+Made Dir: C:\DCULC\Examples\pb6.5
+Made Dir: C:\DCULC\Examples\pb6.5\24c01
+File Copy: C:\DCULC\Examples\pb6.5\24c01\test24c01.PBL | 01-03-2007 | 17:19:08 | | 33792 | f25ea6b8
+Made Dir: C:\DCULC\Examples\pb6.5\24c64
+File Copy: C:\DCULC\Examples\pb6.5\24c64\test24c64.PBL | 01-03-2007 | 17:18:22 | | 33792 | d6e2d8cb
+Made Dir: C:\DCULC\Examples\pb6.5\4428
+File Copy: C:\DCULC\Examples\pb6.5\4428\tess4428.pbl | 01-03-2007 | 17:15:56 | | 38912 | b78d98b
+Made Dir: C:\DCULC\Examples\pb6.5\4442
+File Copy: C:\DCULC\Examples\pb6.5\4442\test4442.PBL | 01-03-2007 | 17:14:12 | | 37376 | 58b36c16
+Made Dir: C:\DCULC\Examples\pb6.5\Cpu
+File Copy: C:\DCULC\Examples\pb6.5\Cpu\cpu.pbl | 01-03-2007 | 17:11:28 | | 24064 | 5598e884
+Made Dir: C:\DCULC\Examples\vb6.0
+Made Dir: C:\DCULC\Examples\vb6.0\24c01
+File Copy: C:\DCULC\Examples\vb6.0\24c01\frm24c01.frm | 12-29-2006 | 17:15:04 | | 4766 | 6d76b1d3
+File Copy: C:\DCULC\Examples\vb6.0\24c01\Ic32.bas | 12-29-2006 | 17:15:04 | | 1357 | af776db8
+File Copy: C:\DCULC\Examples\vb6.0\24c01\Test24c01.VBP | 12-29-2006 | 17:15:04 | | 625 | 66c167e7
+File Copy: C:\DCULC\Examples\vb6.0\24c01\Test24c01.vbw | 01-03-2007 | 16:48:50 | | 83 | 501f04bb
+Made Dir: C:\DCULC\Examples\vb6.0\24c64
+File Copy: C:\DCULC\Examples\vb6.0\24c64\frm24c64.frm | 12-29-2006 | 17:10:36 | | 4716 | 7db88403
+File Copy: C:\DCULC\Examples\vb6.0\24c64\Ic32.bas | 12-29-2006 | 17:04:34 | | 3334 | 3bd488a6
+File Copy: C:\DCULC\Examples\vb6.0\24c64\Test24c64.VBP | 12-29-2006 | 17:10:36 | | 625 | 1c3c8e71
+File Copy: C:\DCULC\Examples\vb6.0\24c64\Test24c64.vbw | 01-03-2007 | 16:48:58 | | 83 | 95367346
+Made Dir: C:\DCULC\Examples\vb6.0\4428
+File Copy: C:\DCULC\Examples\vb6.0\4428\Frm4428.frm | 12-29-2006 | 17:03:16 | | 6074 | add894d5
+File Copy: C:\DCULC\Examples\vb6.0\4428\Ic32.bas | 12-29-2006 | 17:01:42 | | 3122 | a23c8b49
+File Copy: C:\DCULC\Examples\vb6.0\4428\Test4428.vbp | 12-29-2006 | 17:03:18 | | 599 | f22e55dc
+File Copy: C:\DCULC\Examples\vb6.0\4428\Test4428.vbw | 01-03-2007 | 16:49:04 | | 82 | de20d2d9
+Made Dir: C:\DCULC\Examples\vb6.0\4442
+File Copy: C:\DCULC\Examples\vb6.0\4442\Frm4442.frm | 01-03-2007 | 16:14:42 | | 6130 | 5261ff9b
+File Copy: C:\DCULC\Examples\vb6.0\4442\Ic32.bas | 12-29-2006 | 16:57:36 | | 3228 | 1e8f2660
+File Copy: C:\DCULC\Examples\vb6.0\4442\Test4442.vbp | 01-03-2007 | 16:14:42 | | 599 | 6af6669d
+File Copy: C:\DCULC\Examples\vb6.0\4442\Test4442.vbw | 01-03-2007 | 16:49:14 | | 81 | 8433b332
+Made Dir: C:\DCULC\Examples\vb6.0\cpu
+File Copy: C:\DCULC\Examples\vb6.0\cpu\cpu.vbp | 01-03-2007 | 16:09:08 | | 642 | 7e13ccd3
+File Copy: C:\DCULC\Examples\vb6.0\cpu\cpu.vbw | 01-03-2007 | 16:49:28 | | 82 | 91743eeb
+File Copy: C:\DCULC\Examples\vb6.0\cpu\frmcpu.Frm | 01-03-2007 | 16:09:08 | | 4937 | 416af091
+File Copy: C:\DCULC\Examples\vb6.0\cpu\Ic32.bas | 12-29-2006 | 16:56:06 | | 2571 | 3c3d220e
+Made Dir: C:\DCULC\Examples\vc6.0
+Made Dir: C:\DCULC\Examples\vc6.0\24c01
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.cpp | 09-17-2003 | 09:28:02 | | 2071 | 81071b96
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.dsp | 12-28-2006 | 10:36:32 | | 4264 | a32df3ee
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.dsw | 09-17-2003 | 09:28:02 | | 535 | db8766fb
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.h | 09-17-2003 | 09:28:02 | | 1323 | 7dea33fa
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.plg | 01-03-2007 | 16:16:44 | | 1626 | fea1efe2
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01.rc | 04-19-2005 | 17:22:46 | | 4742 | 967c538d
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.cpp | 01-03-2007 | 16:07:50 | | 5739 | ad76c228
+File Copy: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.h | 04-19-2005 | 17:08:58 | | 1366 | 8f58f42e
+File Copy: C:\DCULC\Examples\vc6.0\24c01\dculc.h | 12-29-2006 | 16:24:54 | | 4782 | 5ea319c1
+File Copy: C:\DCULC\Examples\vc6.0\24c01\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\DCULC\Examples\vc6.0\24c01\ReadMe.txt | 09-17-2003 | 09:28:02 | | 3567 | 709cb11e
+Made Dir: C:\DCULC\Examples\vc6.0\24c01\res
+File Copy: C:\DCULC\Examples\vc6.0\24c01\res\24C01.ico | 09-17-2003 | 09:28:02 | | 1078 | 120de4e4
+File Copy: C:\DCULC\Examples\vc6.0\24c01\res\24C01.rc2 | 09-17-2003 | 09:28:02 | | 397 | 250b33e0
+File Copy: C:\DCULC\Examples\vc6.0\24c01\Resource.h | 09-17-2003 | 09:40:20 | | 683 | 4ed1efef
+File Copy: C:\DCULC\Examples\vc6.0\24c01\StdAfx.cpp | 09-17-2003 | 09:28:02 | | 207 | e4b833b7
+File Copy: C:\DCULC\Examples\vc6.0\24c01\StdAfx.h | 09-17-2003 | 09:28:02 | | 1054 | 7c5269ac
+Made Dir: C:\DCULC\Examples\vc6.0\24c64
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.cpp | 09-17-2003 | 09:59:28 | | 2071 | 6cb9a608
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.dsp | 12-28-2006 | 10:35:22 | | 4204 | 4f5a9287
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.dsw | 09-17-2003 | 09:59:28 | | 535 | eee274bb
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.h | 09-17-2003 | 09:59:28 | | 1323 | b2fd55cc
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.plg | 01-03-2007 | 16:16:24 | | 1626 | c814043e
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64.rc | 09-17-2003 | 10:04:16 | | 4615 | 5de55c5f
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.cpp | 01-03-2007 | 16:07:14 | | 5452 | a8ce5f0
+File Copy: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.h | 09-17-2003 | 10:06:38 | | 1366 | 56a5f695
+File Copy: C:\DCULC\Examples\vc6.0\24c64\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Copy: C:\DCULC\Examples\vc6.0\24c64\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\DCULC\Examples\vc6.0\24c64\ReadMe.txt | 09-17-2003 | 09:59:28 | | 3567 | 23e41c7f
+Made Dir: C:\DCULC\Examples\vc6.0\24c64\res
+File Copy: C:\DCULC\Examples\vc6.0\24c64\res\24C64.ico | 09-17-2003 | 09:59:28 | | 1078 | 120de4e4
+File Copy: C:\DCULC\Examples\vc6.0\24c64\res\24C64.rc2 | 09-17-2003 | 09:59:28 | | 397 | 2093fd9
+File Copy: C:\DCULC\Examples\vc6.0\24c64\Resource.h | 09-17-2003 | 10:04:16 | | 683 | e1fe4fe0
+File Copy: C:\DCULC\Examples\vc6.0\24c64\StdAfx.cpp | 09-17-2003 | 09:59:28 | | 207 | aedfe1f8
+File Copy: C:\DCULC\Examples\vc6.0\24c64\StdAfx.h | 09-17-2003 | 09:59:28 | | 1054 | eb3db815
+Made Dir: C:\DCULC\Examples\vc6.0\4428
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.cpp | 09-17-2003 | 16:13:30 | | 2057 | 5659567b
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.dsp | 12-28-2006 | 10:38:44 | | 4182 | 16528136
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.dsw | 09-17-2003 | 16:13:30 | | 533 | 2de8cbad
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.h | 09-17-2003 | 16:13:30 | | 1312 | adea7b2f
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.plg | 01-03-2007 | 16:16:06 | | 1583 | 92376df7
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428.rc | 09-17-2003 | 16:21:08 | | 4605 | ea6e8c9c
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428Dlg.cpp | 01-03-2007 | 16:06:58 | | 8031 | baf702e6
+File Copy: C:\DCULC\Examples\vc6.0\4428\4428Dlg.h | 09-17-2003 | 16:43:04 | | 1355 | 2df38560
+File Copy: C:\DCULC\Examples\vc6.0\4428\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Copy: C:\DCULC\Examples\vc6.0\4428\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\DCULC\Examples\vc6.0\4428\ReadMe.txt | 09-17-2003 | 16:13:30 | | 3549 | 7702205b
+Made Dir: C:\DCULC\Examples\vc6.0\4428\res
+File Copy: C:\DCULC\Examples\vc6.0\4428\res\4428.ico | 09-17-2003 | 16:13:30 | | 1078 | 120de4e4
+File Copy: C:\DCULC\Examples\vc6.0\4428\res\4428.rc2 | 09-17-2003 | 16:13:30 | | 396 | 47b8fedf
+File Copy: C:\DCULC\Examples\vc6.0\4428\Resource.h | 09-17-2003 | 16:21:08 | | 682 | bb132861
+File Copy: C:\DCULC\Examples\vc6.0\4428\StdAfx.cpp | 09-17-2003 | 16:13:30 | | 206 | f046f494
+File Copy: C:\DCULC\Examples\vc6.0\4428\StdAfx.h | 09-17-2003 | 16:13:30 | | 1054 | 338fa097
+Made Dir: C:\DCULC\Examples\vc6.0\4442
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.cpp | 09-17-2003 | 15:39:28 | | 2057 | d8c5dc1a
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.dsp | 12-28-2006 | 10:39:36 | | 4186 | 68941a73
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.dsw | 09-17-2003 | 15:39:28 | | 533 | 42414d4b
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.h | 09-17-2003 | 15:39:28 | | 1312 | f3046356
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.plg | 01-03-2007 | 16:15:44 | | 1607 | 14d43ed7
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442.rc | 09-17-2003 | 15:46:58 | | 4605 | f287ae68
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442Dlg.cpp | 01-03-2007 | 16:05:56 | | 7145 | 2c5c65da
+File Copy: C:\DCULC\Examples\vc6.0\4442\4442Dlg.h | 09-17-2003 | 15:47:52 | | 1355 | 96481ae9
+File Copy: C:\DCULC\Examples\vc6.0\4442\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Copy: C:\DCULC\Examples\vc6.0\4442\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\DCULC\Examples\vc6.0\4442\ReadMe.txt | 09-17-2003 | 15:39:28 | | 3549 | dd4a8779
+Made Dir: C:\DCULC\Examples\vc6.0\4442\res
+File Copy: C:\DCULC\Examples\vc6.0\4442\res\4442.ico | 09-17-2003 | 15:39:28 | | 1078 | 120de4e4
+File Copy: C:\DCULC\Examples\vc6.0\4442\res\4442.rc2 | 09-17-2003 | 15:39:28 | | 396 | e74824e5
+File Copy: C:\DCULC\Examples\vc6.0\4442\Resource.h | 09-17-2003 | 15:46:58 | | 682 | aa1e9d20
+File Copy: C:\DCULC\Examples\vc6.0\4442\StdAfx.cpp | 09-17-2003 | 15:39:28 | | 206 | 8713ee
+File Copy: C:\DCULC\Examples\vc6.0\4442\StdAfx.h | 09-17-2003 | 15:39:28 | | 1054 | fcf0c24d
+Made Dir: C:\DCULC\Examples\vc6.0\cpu
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.cpp | 12-10-2003 | 08:48:42 | | 2021 | f4775017
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.dsp | 12-28-2006 | 10:40:54 | | 4064 | 236f1e46
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.dsw | 12-10-2003 | 08:48:44 | | 531 | 5faa205e
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.h | 12-10-2003 | 08:48:42 | | 1291 | 2306a30b
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.plg | 01-03-2007 | 16:15:16 | | 1549 | 68d43fa5
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpu.rc | 01-03-2007 | 13:33:52 | | 4712 | b848592d
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.cpp | 01-03-2007 | 16:06:40 | | 4285 | f64e250d
+File Copy: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.h | 04-28-2005 | 09:49:54 | | 1397 | f95c6538
+File Copy: C:\DCULC\Examples\vc6.0\cpu\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Copy: C:\DCULC\Examples\vc6.0\cpu\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\DCULC\Examples\vc6.0\cpu\ReadMe.txt | 12-10-2003 | 08:48:42 | | 3525 | 40c71470
+Made Dir: C:\DCULC\Examples\vc6.0\cpu\res
+File Copy: C:\DCULC\Examples\vc6.0\cpu\res\cpu.ico | 12-10-2003 | 08:48:42 | | 1078 | 120de4e4
+File Copy: C:\DCULC\Examples\vc6.0\cpu\res\cpu.rc2 | 12-10-2003 | 08:48:42 | | 395 | 7db8eda9
+File Copy: C:\DCULC\Examples\vc6.0\cpu\Resource.h | 12-10-2003 | 09:10:14 | | 865 | b703697e
+File Copy: C:\DCULC\Examples\vc6.0\cpu\StdAfx.cpp | 12-10-2003 | 08:48:42 | | 205 | dc80d147
+File Copy: C:\DCULC\Examples\vc6.0\cpu\StdAfx.h | 12-10-2003 | 08:48:42 | | 1054 | a97bad4a
+Made Dir: C:\DCULC\Examples\vfp6.0
+Made Dir: C:\DCULC\Examples\vfp6.0\24c01
+File Copy: C:\DCULC\Examples\vfp6.0\24c01\test24c01.SCT | 01-03-2007 | 17:07:02 | | 8662 | 2c5182dc
+File Copy: C:\DCULC\Examples\vfp6.0\24c01\test24c01.scx | 01-03-2007 | 17:07:02 | | 1905 | b50c87d6
+Made Dir: C:\DCULC\Examples\vfp6.0\24c64
+File Copy: C:\DCULC\Examples\vfp6.0\24c64\test24c64.SCT | 01-03-2007 | 17:05:44 | | 7105 | 96dd83d9
+File Copy: C:\DCULC\Examples\vfp6.0\24c64\test24c64.scx | 01-03-2007 | 17:05:44 | | 1905 | f78afa62
+Made Dir: C:\DCULC\Examples\vfp6.0\4428
+File Copy: C:\DCULC\Examples\vfp6.0\4428\test4428.SCT | 01-03-2007 | 17:04:36 | | 11233 | 386ec94e
+File Copy: C:\DCULC\Examples\vfp6.0\4428\test4428.scx | 01-03-2007 | 17:04:36 | | 1905 | b739f6cd
+Made Dir: C:\DCULC\Examples\vfp6.0\4442
+File Copy: C:\DCULC\Examples\vfp6.0\4442\test4442.SCT | 01-03-2007 | 16:58:44 | | 10613 | be776b0
+File Copy: C:\DCULC\Examples\vfp6.0\4442\test4442.scx | 01-03-2007 | 16:58:44 | | 1905 | 754c00b
+Made Dir: C:\DCULC\Examples\vfp6.0\cpu
+File Copy: C:\DCULC\Examples\vfp6.0\cpu\cpu.SCT | 01-03-2007 | 16:56:00 | | 6798 | aec54655
+File Copy: C:\DCULC\Examples\vfp6.0\cpu\cpu.scx | 01-03-2007 | 16:56:00 | | 1905 | 779647fb
+File Copy: C:\DCULC\rDhelp.chm | 01-25-2007 | 09:32:30 | | 75001 | 36a15573
+Made Dir: C:\DCULC\Windows.dll
+File Copy: C:\DCULC\Windows.dll\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Copy: C:\DCULC\Windows.dll\dculc.h | 01-03-2007 | 14:50:00 | | 4779 | 68fca81a
+File Copy: C:\DCULC\Windows.dll\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Copy: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+Made Dir: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\DCLUC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\DCULC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+User Rights: Admin
+***  Installation Started 06/04/2020 0:28  ***
+Title: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷ Installation
+Source: G:\DCULC.EXE | 08-15-2007 | 17:20:44 | 766828
+File Overwrite: C:\DCULC\UNWISE.EXE | 05-10-2001 | 10:04:28 | | 162304 | 432c52a3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+File Overwrite: C:\DCULC\dculc.exe | 07-25-2007 | 16:56:28 | 2.0.0.3 | 577536 | 619cbd27
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.cfg | 04-30-2005 | 14:15:42 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dof | 04-30-2005 | 14:15:42 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dpr | 01-21-2001 | 15:59:56 | | 237 | 9a5c2b4f
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.res | 04-30-2005 | 14:05:00 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.dcu | 12-29-2006 | 17:45:50 | | 2111 | b431ebd3
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.pas | 12-29-2006 | 17:45:24 | | 2424 | c66903d2
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.~pas | 12-28-2006 | 10:06:06 | | 3387 | a05f8a4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dcu | 04-30-2005 | 14:22:04 | | 6106 | 9e765d49
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.ddp | 01-03-2007 | 16:48:20 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dfm | 01-03-2007 | 16:48:12 | | 1560 | 47abc07c
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~ddp | 12-28-2006 | 10:06:52 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~dfm | 12-28-2006 | 10:04:00 | | 1560 | f04b2087
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.cfg | 04-30-2005 | 14:29:44 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dof | 04-30-2005 | 14:29:44 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dpr | 09-09-2003 | 17:57:24 | | 309 | 52d9cd63
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.res | 04-30-2005 | 14:26:56 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.dcu | 12-29-2006 | 17:46:56 | | 2111 | 19617b53
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.pas | 12-29-2006 | 17:46:48 | | 2423 | b4396c25
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.~pas | 12-28-2006 | 10:09:04 | | 5748 | d1161db4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dcu | 01-03-2007 | 16:47:34 | | 5983 | a5bded01
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.ddp | 01-03-2007 | 16:47:32 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dfm | 01-03-2007 | 16:47:14 | | 1560 | b3ccc6
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.pas | 01-03-2007 | 16:47:22 | | 2622 | ca9cbc02
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~ddp | 04-30-2005 | 14:29:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~dfm | 01-21-2001 | 16:56:12 | | 1560 | b7532c3d
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~pas | 04-30-2005 | 14:27:30 | | 2609 | 1b93dd65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.cfg | 01-03-2007 | 16:45:28 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dof | 01-03-2007 | 16:45:28 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dpr | 01-05-2004 | 14:06:12 | | 306 | 39537ff7
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.res | 04-30-2005 | 14:30:04 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.dcu | 12-29-2006 | 17:49:30 | | 2660 | 9e010413
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.pas | 12-29-2006 | 17:47:54 | | 3148 | d97e636b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.~pas | 12-28-2006 | 10:12:24 | | 6472 | fd1d3e65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dcu | 01-03-2007 | 16:45:02 | | 7711 | 13301084
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.ddp | 01-03-2007 | 16:45:26 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dfm | 01-03-2007 | 16:44:00 | | 1905 | 705bec98
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.pas | 01-03-2007 | 16:44:26 | | 4091 | 731fb05d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~ddp | 12-29-2006 | 17:49:28 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~dfm | 01-05-2004 | 13:43:34 | | 1905 | f0fecadb
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~pas | 12-29-2006 | 17:49:08 | | 4078 | 1160d389
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.cfg | 01-03-2007 | 16:40:40 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dof | 01-03-2007 | 16:40:40 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dpr | 09-10-2003 | 10:26:14 | | 304 | 9a2e61ea
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.res | 04-30-2005 | 14:32:02 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.dcu | 12-29-2006 | 18:08:50 | | 2111 | 3a5a0cf8
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.pas | 12-29-2006 | 18:08:36 | | 2424 | bcc4889b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.~pas | 12-28-2006 | 10:13:12 | | 5735 | 22b4e299
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dcu | 01-03-2007 | 16:36:34 | | 7180 | 709b549a
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.ddp | 01-03-2007 | 16:40:38 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dfm | 01-03-2007 | 16:38:26 | | 1905 | 91c09ce3
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~ddp | 01-03-2007 | 16:36:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~dfm | 01-21-2001 | 15:29:40 | | 1905 | 1165baa0
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.cfg | 12-10-2003 | 13:52:18 | | 386 | ac143ce2
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dof | 12-10-2003 | 13:52:18 | | 1096 | 811e47ad
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dpr | 12-10-2003 | 13:52:18 | | 233 | 84b6606d
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.res | 12-10-2003 | 11:13:50 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dcu | 01-03-2007 | 16:34:12 | | 5471 | 305b9940
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.ddp | 01-03-2007 | 16:34:10 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.pas | 01-03-2007 | 16:34:10 | | 2044 | 551b4278
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~ddp | 01-03-2007 | 16:33:36 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~pas | 01-03-2007 | 16:33:16 | | 2029 | afec9ec7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.dcu | 12-29-2006 | 18:09:36 | | 822 | 604ef64
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas | 12-28-2006 | 10:13:52 | | 679 | e7d082e7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas.bak | 12-10-2003 | 14:48:56 | | 684 | 74e68f73
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.~pas | 04-28-2005 | 10:10:28 | | 674 | 164a3a5
+File Overwrite: C:\DCULC\Examples\pb6.5\24c01\test24c01.PBL | 01-03-2007 | 17:19:08 | | 33792 | f25ea6b8
+File Overwrite: C:\DCULC\Examples\pb6.5\24c64\test24c64.PBL | 01-03-2007 | 17:18:22 | | 33792 | d6e2d8cb
+File Overwrite: C:\DCULC\Examples\pb6.5\4428\tess4428.pbl | 01-03-2007 | 17:15:56 | | 38912 | b78d98b
+File Overwrite: C:\DCULC\Examples\pb6.5\4442\test4442.PBL | 01-03-2007 | 17:14:12 | | 37376 | 58b36c16
+File Overwrite: C:\DCULC\Examples\pb6.5\Cpu\cpu.pbl | 01-03-2007 | 17:11:28 | | 24064 | 5598e884
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\frm24c01.frm | 12-29-2006 | 17:15:04 | | 4766 | 6d76b1d3
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Ic32.bas | 12-29-2006 | 17:15:04 | | 1357 | af776db8
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.VBP | 12-29-2006 | 17:15:04 | | 625 | 66c167e7
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.vbw | 01-03-2007 | 16:48:50 | | 83 | 501f04bb
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\frm24c64.frm | 12-29-2006 | 17:10:36 | | 4716 | 7db88403
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Ic32.bas | 12-29-2006 | 17:04:34 | | 3334 | 3bd488a6
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.VBP | 12-29-2006 | 17:10:36 | | 625 | 1c3c8e71
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.vbw | 01-03-2007 | 16:48:58 | | 83 | 95367346
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Frm4428.frm | 12-29-2006 | 17:03:16 | | 6074 | add894d5
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Ic32.bas | 12-29-2006 | 17:01:42 | | 3122 | a23c8b49
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbp | 12-29-2006 | 17:03:18 | | 599 | f22e55dc
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbw | 01-03-2007 | 16:49:04 | | 82 | de20d2d9
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Frm4442.frm | 01-03-2007 | 16:14:42 | | 6130 | 5261ff9b
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Ic32.bas | 12-29-2006 | 16:57:36 | | 3228 | 1e8f2660
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbp | 01-03-2007 | 16:14:42 | | 599 | 6af6669d
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbw | 01-03-2007 | 16:49:14 | | 81 | 8433b332
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbp | 01-03-2007 | 16:09:08 | | 642 | 7e13ccd3
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbw | 01-03-2007 | 16:49:28 | | 82 | 91743eeb
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\frmcpu.Frm | 01-03-2007 | 16:09:08 | | 4937 | 416af091
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\Ic32.bas | 12-29-2006 | 16:56:06 | | 2571 | 3c3d220e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.cpp | 09-17-2003 | 09:28:02 | | 2071 | 81071b96
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsp | 12-28-2006 | 10:36:32 | | 4264 | a32df3ee
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsw | 09-17-2003 | 09:28:02 | | 535 | db8766fb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.h | 09-17-2003 | 09:28:02 | | 1323 | 7dea33fa
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.plg | 01-03-2007 | 16:16:44 | | 1626 | fea1efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.rc | 04-19-2005 | 17:22:46 | | 4742 | 967c538d
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.cpp | 01-03-2007 | 16:07:50 | | 5739 | ad76c228
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.h | 04-19-2005 | 17:08:58 | | 1366 | 8f58f42e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.h | 12-29-2006 | 16:24:54 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\ReadMe.txt | 09-17-2003 | 09:28:02 | | 3567 | 709cb11e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.ico | 09-17-2003 | 09:28:02 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.rc2 | 09-17-2003 | 09:28:02 | | 397 | 250b33e0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\Resource.h | 09-17-2003 | 09:40:20 | | 683 | 4ed1efef
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.cpp | 09-17-2003 | 09:28:02 | | 207 | e4b833b7
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.h | 09-17-2003 | 09:28:02 | | 1054 | 7c5269ac
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.cpp | 09-17-2003 | 09:59:28 | | 2071 | 6cb9a608
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsp | 12-28-2006 | 10:35:22 | | 4204 | 4f5a9287
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsw | 09-17-2003 | 09:59:28 | | 535 | eee274bb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.h | 09-17-2003 | 09:59:28 | | 1323 | b2fd55cc
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.plg | 01-03-2007 | 16:16:24 | | 1626 | c814043e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.rc | 09-17-2003 | 10:04:16 | | 4615 | 5de55c5f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.cpp | 01-03-2007 | 16:07:14 | | 5452 | a8ce5f0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.h | 09-17-2003 | 10:06:38 | | 1366 | 56a5f695
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\ReadMe.txt | 09-17-2003 | 09:59:28 | | 3567 | 23e41c7f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.ico | 09-17-2003 | 09:59:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.rc2 | 09-17-2003 | 09:59:28 | | 397 | 2093fd9
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\Resource.h | 09-17-2003 | 10:04:16 | | 683 | e1fe4fe0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.cpp | 09-17-2003 | 09:59:28 | | 207 | aedfe1f8
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.h | 09-17-2003 | 09:59:28 | | 1054 | eb3db815
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.cpp | 09-17-2003 | 16:13:30 | | 2057 | 5659567b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsp | 12-28-2006 | 10:38:44 | | 4182 | 16528136
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsw | 09-17-2003 | 16:13:30 | | 533 | 2de8cbad
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.h | 09-17-2003 | 16:13:30 | | 1312 | adea7b2f
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.plg | 01-03-2007 | 16:16:06 | | 1583 | 92376df7
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.rc | 09-17-2003 | 16:21:08 | | 4605 | ea6e8c9c
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.cpp | 01-03-2007 | 16:06:58 | | 8031 | baf702e6
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.h | 09-17-2003 | 16:43:04 | | 1355 | 2df38560
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\ReadMe.txt | 09-17-2003 | 16:13:30 | | 3549 | 7702205b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.ico | 09-17-2003 | 16:13:30 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.rc2 | 09-17-2003 | 16:13:30 | | 396 | 47b8fedf
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\Resource.h | 09-17-2003 | 16:21:08 | | 682 | bb132861
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.cpp | 09-17-2003 | 16:13:30 | | 206 | f046f494
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.h | 09-17-2003 | 16:13:30 | | 1054 | 338fa097
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.cpp | 09-17-2003 | 15:39:28 | | 2057 | d8c5dc1a
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsp | 12-28-2006 | 10:39:36 | | 4186 | 68941a73
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsw | 09-17-2003 | 15:39:28 | | 533 | 42414d4b
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.h | 09-17-2003 | 15:39:28 | | 1312 | f3046356
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.plg | 01-03-2007 | 16:15:44 | | 1607 | 14d43ed7
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.rc | 09-17-2003 | 15:46:58 | | 4605 | f287ae68
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.cpp | 01-03-2007 | 16:05:56 | | 7145 | 2c5c65da
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.h | 09-17-2003 | 15:47:52 | | 1355 | 96481ae9
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\ReadMe.txt | 09-17-2003 | 15:39:28 | | 3549 | dd4a8779
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.ico | 09-17-2003 | 15:39:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.rc2 | 09-17-2003 | 15:39:28 | | 396 | e74824e5
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\Resource.h | 09-17-2003 | 15:46:58 | | 682 | aa1e9d20
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.cpp | 09-17-2003 | 15:39:28 | | 206 | 8713ee
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.h | 09-17-2003 | 15:39:28 | | 1054 | fcf0c24d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.cpp | 12-10-2003 | 08:48:42 | | 2021 | f4775017
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsp | 12-28-2006 | 10:40:54 | | 4064 | 236f1e46
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsw | 12-10-2003 | 08:48:44 | | 531 | 5faa205e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.h | 12-10-2003 | 08:48:42 | | 1291 | 2306a30b
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.plg | 01-03-2007 | 16:15:16 | | 1549 | 68d43fa5
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.rc | 01-03-2007 | 13:33:52 | | 4712 | b848592d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.cpp | 01-03-2007 | 16:06:40 | | 4285 | f64e250d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.h | 04-28-2005 | 09:49:54 | | 1397 | f95c6538
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\ReadMe.txt | 12-10-2003 | 08:48:42 | | 3525 | 40c71470
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.ico | 12-10-2003 | 08:48:42 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.rc2 | 12-10-2003 | 08:48:42 | | 395 | 7db8eda9
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\Resource.h | 12-10-2003 | 09:10:14 | | 865 | b703697e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.cpp | 12-10-2003 | 08:48:42 | | 205 | dc80d147
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.h | 12-10-2003 | 08:48:42 | | 1054 | a97bad4a
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.SCT | 01-03-2007 | 17:07:02 | | 8662 | 2c5182dc
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.scx | 01-03-2007 | 17:07:02 | | 1905 | b50c87d6
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.SCT | 01-03-2007 | 17:05:44 | | 7105 | 96dd83d9
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.scx | 01-03-2007 | 17:05:44 | | 1905 | f78afa62
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.SCT | 01-03-2007 | 17:04:36 | | 11233 | 386ec94e
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.scx | 01-03-2007 | 17:04:36 | | 1905 | b739f6cd
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.SCT | 01-03-2007 | 16:58:44 | | 10613 | be776b0
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.scx | 01-03-2007 | 16:58:44 | | 1905 | 754c00b
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.SCT | 01-03-2007 | 16:56:00 | | 6798 | aec54655
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.scx | 01-03-2007 | 16:56:00 | | 1905 | 779647fb
+File Overwrite: C:\DCULC\rDhelp.chm | 01-25-2007 | 09:32:30 | | 75001 | 36a15573
+File Overwrite: C:\DCULC\Windows.dll\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\DCULC\Windows.dll\dculc.h | 01-03-2007 | 14:50:00 | | 4779 | 68fca81a
+File Overwrite: C:\DCULC\Windows.dll\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\DCLUC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\DCULC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+User Rights: Admin
+***  Installation Started 06/04/2020 0:36  ***
+Title: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷ Installation
+Source: G:\DCULC.EXE | 08-15-2007 | 17:20:44 | 766828
+File Overwrite: C:\DCULC\UNWISE.EXE | 05-10-2001 | 10:04:28 | | 162304 | 432c52a3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+File Overwrite: C:\DCULC\dculc.exe | 07-25-2007 | 16:56:28 | 2.0.0.3 | 577536 | 619cbd27
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.cfg | 04-30-2005 | 14:15:42 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dof | 04-30-2005 | 14:15:42 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dpr | 01-21-2001 | 15:59:56 | | 237 | 9a5c2b4f
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.res | 04-30-2005 | 14:05:00 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.dcu | 12-29-2006 | 17:45:50 | | 2111 | b431ebd3
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.pas | 12-29-2006 | 17:45:24 | | 2424 | c66903d2
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.~pas | 12-28-2006 | 10:06:06 | | 3387 | a05f8a4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dcu | 04-30-2005 | 14:22:04 | | 6106 | 9e765d49
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.ddp | 01-03-2007 | 16:48:20 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dfm | 01-03-2007 | 16:48:12 | | 1560 | 47abc07c
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~ddp | 12-28-2006 | 10:06:52 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~dfm | 12-28-2006 | 10:04:00 | | 1560 | f04b2087
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.cfg | 04-30-2005 | 14:29:44 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dof | 04-30-2005 | 14:29:44 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dpr | 09-09-2003 | 17:57:24 | | 309 | 52d9cd63
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.res | 04-30-2005 | 14:26:56 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.dcu | 12-29-2006 | 17:46:56 | | 2111 | 19617b53
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.pas | 12-29-2006 | 17:46:48 | | 2423 | b4396c25
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.~pas | 12-28-2006 | 10:09:04 | | 5748 | d1161db4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dcu | 01-03-2007 | 16:47:34 | | 5983 | a5bded01
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.ddp | 01-03-2007 | 16:47:32 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dfm | 01-03-2007 | 16:47:14 | | 1560 | b3ccc6
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.pas | 01-03-2007 | 16:47:22 | | 2622 | ca9cbc02
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~ddp | 04-30-2005 | 14:29:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~dfm | 01-21-2001 | 16:56:12 | | 1560 | b7532c3d
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~pas | 04-30-2005 | 14:27:30 | | 2609 | 1b93dd65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.cfg | 01-03-2007 | 16:45:28 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dof | 01-03-2007 | 16:45:28 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dpr | 01-05-2004 | 14:06:12 | | 306 | 39537ff7
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.res | 04-30-2005 | 14:30:04 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.dcu | 12-29-2006 | 17:49:30 | | 2660 | 9e010413
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.pas | 12-29-2006 | 17:47:54 | | 3148 | d97e636b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.~pas | 12-28-2006 | 10:12:24 | | 6472 | fd1d3e65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dcu | 01-03-2007 | 16:45:02 | | 7711 | 13301084
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.ddp | 01-03-2007 | 16:45:26 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dfm | 01-03-2007 | 16:44:00 | | 1905 | 705bec98
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.pas | 01-03-2007 | 16:44:26 | | 4091 | 731fb05d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~ddp | 12-29-2006 | 17:49:28 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~dfm | 01-05-2004 | 13:43:34 | | 1905 | f0fecadb
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~pas | 12-29-2006 | 17:49:08 | | 4078 | 1160d389
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.cfg | 01-03-2007 | 16:40:40 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dof | 01-03-2007 | 16:40:40 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dpr | 09-10-2003 | 10:26:14 | | 304 | 9a2e61ea
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.res | 04-30-2005 | 14:32:02 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.dcu | 12-29-2006 | 18:08:50 | | 2111 | 3a5a0cf8
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.pas | 12-29-2006 | 18:08:36 | | 2424 | bcc4889b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.~pas | 12-28-2006 | 10:13:12 | | 5735 | 22b4e299
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dcu | 01-03-2007 | 16:36:34 | | 7180 | 709b549a
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.ddp | 01-03-2007 | 16:40:38 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dfm | 01-03-2007 | 16:38:26 | | 1905 | 91c09ce3
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~ddp | 01-03-2007 | 16:36:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~dfm | 01-21-2001 | 15:29:40 | | 1905 | 1165baa0
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.cfg | 12-10-2003 | 13:52:18 | | 386 | ac143ce2
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dof | 12-10-2003 | 13:52:18 | | 1096 | 811e47ad
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dpr | 12-10-2003 | 13:52:18 | | 233 | 84b6606d
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.res | 12-10-2003 | 11:13:50 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dcu | 01-03-2007 | 16:34:12 | | 5471 | 305b9940
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.ddp | 01-03-2007 | 16:34:10 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.pas | 01-03-2007 | 16:34:10 | | 2044 | 551b4278
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~ddp | 01-03-2007 | 16:33:36 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~pas | 01-03-2007 | 16:33:16 | | 2029 | afec9ec7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.dcu | 12-29-2006 | 18:09:36 | | 822 | 604ef64
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas | 12-28-2006 | 10:13:52 | | 679 | e7d082e7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas.bak | 12-10-2003 | 14:48:56 | | 684 | 74e68f73
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.~pas | 04-28-2005 | 10:10:28 | | 674 | 164a3a5
+File Overwrite: C:\DCULC\Examples\pb6.5\24c01\test24c01.PBL | 01-03-2007 | 17:19:08 | | 33792 | f25ea6b8
+File Overwrite: C:\DCULC\Examples\pb6.5\24c64\test24c64.PBL | 01-03-2007 | 17:18:22 | | 33792 | d6e2d8cb
+File Overwrite: C:\DCULC\Examples\pb6.5\4428\tess4428.pbl | 01-03-2007 | 17:15:56 | | 38912 | b78d98b
+File Overwrite: C:\DCULC\Examples\pb6.5\4442\test4442.PBL | 01-03-2007 | 17:14:12 | | 37376 | 58b36c16
+File Overwrite: C:\DCULC\Examples\pb6.5\Cpu\cpu.pbl | 01-03-2007 | 17:11:28 | | 24064 | 5598e884
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\frm24c01.frm | 12-29-2006 | 17:15:04 | | 4766 | 6d76b1d3
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Ic32.bas | 12-29-2006 | 17:15:04 | | 1357 | af776db8
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.VBP | 12-29-2006 | 17:15:04 | | 625 | 66c167e7
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.vbw | 01-03-2007 | 16:48:50 | | 83 | 501f04bb
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\frm24c64.frm | 12-29-2006 | 17:10:36 | | 4716 | 7db88403
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Ic32.bas | 12-29-2006 | 17:04:34 | | 3334 | 3bd488a6
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.VBP | 12-29-2006 | 17:10:36 | | 625 | 1c3c8e71
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.vbw | 01-03-2007 | 16:48:58 | | 83 | 95367346
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Frm4428.frm | 12-29-2006 | 17:03:16 | | 6074 | add894d5
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Ic32.bas | 12-29-2006 | 17:01:42 | | 3122 | a23c8b49
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbp | 12-29-2006 | 17:03:18 | | 599 | f22e55dc
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbw | 01-03-2007 | 16:49:04 | | 82 | de20d2d9
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Frm4442.frm | 01-03-2007 | 16:14:42 | | 6130 | 5261ff9b
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Ic32.bas | 12-29-2006 | 16:57:36 | | 3228 | 1e8f2660
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbp | 01-03-2007 | 16:14:42 | | 599 | 6af6669d
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbw | 01-03-2007 | 16:49:14 | | 81 | 8433b332
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbp | 01-03-2007 | 16:09:08 | | 642 | 7e13ccd3
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbw | 01-03-2007 | 16:49:28 | | 82 | 91743eeb
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\frmcpu.Frm | 01-03-2007 | 16:09:08 | | 4937 | 416af091
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\Ic32.bas | 12-29-2006 | 16:56:06 | | 2571 | 3c3d220e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.cpp | 09-17-2003 | 09:28:02 | | 2071 | 81071b96
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsp | 12-28-2006 | 10:36:32 | | 4264 | a32df3ee
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsw | 09-17-2003 | 09:28:02 | | 535 | db8766fb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.h | 09-17-2003 | 09:28:02 | | 1323 | 7dea33fa
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.plg | 01-03-2007 | 16:16:44 | | 1626 | fea1efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.rc | 04-19-2005 | 17:22:46 | | 4742 | 967c538d
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.cpp | 01-03-2007 | 16:07:50 | | 5739 | ad76c228
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.h | 04-19-2005 | 17:08:58 | | 1366 | 8f58f42e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.h | 12-29-2006 | 16:24:54 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\ReadMe.txt | 09-17-2003 | 09:28:02 | | 3567 | 709cb11e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.ico | 09-17-2003 | 09:28:02 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.rc2 | 09-17-2003 | 09:28:02 | | 397 | 250b33e0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\Resource.h | 09-17-2003 | 09:40:20 | | 683 | 4ed1efef
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.cpp | 09-17-2003 | 09:28:02 | | 207 | e4b833b7
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.h | 09-17-2003 | 09:28:02 | | 1054 | 7c5269ac
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.cpp | 09-17-2003 | 09:59:28 | | 2071 | 6cb9a608
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsp | 12-28-2006 | 10:35:22 | | 4204 | 4f5a9287
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsw | 09-17-2003 | 09:59:28 | | 535 | eee274bb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.h | 09-17-2003 | 09:59:28 | | 1323 | b2fd55cc
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.plg | 01-03-2007 | 16:16:24 | | 1626 | c814043e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.rc | 09-17-2003 | 10:04:16 | | 4615 | 5de55c5f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.cpp | 01-03-2007 | 16:07:14 | | 5452 | a8ce5f0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.h | 09-17-2003 | 10:06:38 | | 1366 | 56a5f695
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\ReadMe.txt | 09-17-2003 | 09:59:28 | | 3567 | 23e41c7f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.ico | 09-17-2003 | 09:59:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.rc2 | 09-17-2003 | 09:59:28 | | 397 | 2093fd9
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\Resource.h | 09-17-2003 | 10:04:16 | | 683 | e1fe4fe0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.cpp | 09-17-2003 | 09:59:28 | | 207 | aedfe1f8
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.h | 09-17-2003 | 09:59:28 | | 1054 | eb3db815
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.cpp | 09-17-2003 | 16:13:30 | | 2057 | 5659567b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsp | 12-28-2006 | 10:38:44 | | 4182 | 16528136
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsw | 09-17-2003 | 16:13:30 | | 533 | 2de8cbad
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.h | 09-17-2003 | 16:13:30 | | 1312 | adea7b2f
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.plg | 01-03-2007 | 16:16:06 | | 1583 | 92376df7
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.rc | 09-17-2003 | 16:21:08 | | 4605 | ea6e8c9c
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.cpp | 01-03-2007 | 16:06:58 | | 8031 | baf702e6
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.h | 09-17-2003 | 16:43:04 | | 1355 | 2df38560
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\ReadMe.txt | 09-17-2003 | 16:13:30 | | 3549 | 7702205b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.ico | 09-17-2003 | 16:13:30 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.rc2 | 09-17-2003 | 16:13:30 | | 396 | 47b8fedf
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\Resource.h | 09-17-2003 | 16:21:08 | | 682 | bb132861
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.cpp | 09-17-2003 | 16:13:30 | | 206 | f046f494
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.h | 09-17-2003 | 16:13:30 | | 1054 | 338fa097
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.cpp | 09-17-2003 | 15:39:28 | | 2057 | d8c5dc1a
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsp | 12-28-2006 | 10:39:36 | | 4186 | 68941a73
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsw | 09-17-2003 | 15:39:28 | | 533 | 42414d4b
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.h | 09-17-2003 | 15:39:28 | | 1312 | f3046356
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.plg | 01-03-2007 | 16:15:44 | | 1607 | 14d43ed7
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.rc | 09-17-2003 | 15:46:58 | | 4605 | f287ae68
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.cpp | 01-03-2007 | 16:05:56 | | 7145 | 2c5c65da
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.h | 09-17-2003 | 15:47:52 | | 1355 | 96481ae9
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\ReadMe.txt | 09-17-2003 | 15:39:28 | | 3549 | dd4a8779
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.ico | 09-17-2003 | 15:39:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.rc2 | 09-17-2003 | 15:39:28 | | 396 | e74824e5
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\Resource.h | 09-17-2003 | 15:46:58 | | 682 | aa1e9d20
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.cpp | 09-17-2003 | 15:39:28 | | 206 | 8713ee
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.h | 09-17-2003 | 15:39:28 | | 1054 | fcf0c24d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.cpp | 12-10-2003 | 08:48:42 | | 2021 | f4775017
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsp | 12-28-2006 | 10:40:54 | | 4064 | 236f1e46
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsw | 12-10-2003 | 08:48:44 | | 531 | 5faa205e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.h | 12-10-2003 | 08:48:42 | | 1291 | 2306a30b
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.plg | 01-03-2007 | 16:15:16 | | 1549 | 68d43fa5
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.rc | 01-03-2007 | 13:33:52 | | 4712 | b848592d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.cpp | 01-03-2007 | 16:06:40 | | 4285 | f64e250d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.h | 04-28-2005 | 09:49:54 | | 1397 | f95c6538
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\ReadMe.txt | 12-10-2003 | 08:48:42 | | 3525 | 40c71470
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.ico | 12-10-2003 | 08:48:42 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.rc2 | 12-10-2003 | 08:48:42 | | 395 | 7db8eda9
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\Resource.h | 12-10-2003 | 09:10:14 | | 865 | b703697e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.cpp | 12-10-2003 | 08:48:42 | | 205 | dc80d147
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.h | 12-10-2003 | 08:48:42 | | 1054 | a97bad4a
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.SCT | 01-03-2007 | 17:07:02 | | 8662 | 2c5182dc
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.scx | 01-03-2007 | 17:07:02 | | 1905 | b50c87d6
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.SCT | 01-03-2007 | 17:05:44 | | 7105 | 96dd83d9
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.scx | 01-03-2007 | 17:05:44 | | 1905 | f78afa62
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.SCT | 01-03-2007 | 17:04:36 | | 11233 | 386ec94e
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.scx | 01-03-2007 | 17:04:36 | | 1905 | b739f6cd
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.SCT | 01-03-2007 | 16:58:44 | | 10613 | be776b0
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.scx | 01-03-2007 | 16:58:44 | | 1905 | 754c00b
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.SCT | 01-03-2007 | 16:56:00 | | 6798 | aec54655
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.scx | 01-03-2007 | 16:56:00 | | 1905 | 779647fb
+File Overwrite: C:\DCULC\rDhelp.chm | 01-25-2007 | 09:32:30 | | 75001 | 36a15573
+File Overwrite: C:\DCULC\Windows.dll\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\DCULC\Windows.dll\dculc.h | 01-03-2007 | 14:50:00 | | 4779 | 68fca81a
+File Overwrite: C:\DCULC\Windows.dll\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\Windows\System32\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\DCLUC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\DCULC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+User Rights: Admin
+***  Installation Started 10/11/2020 12:44  ***
+Title: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷ Installation
+Source: G:\DCULC.EXE | 08-15-2007 | 17:20:44 | 766828
+File Overwrite: C:\DCULC\UNWISE.EXE | 05-10-2001 | 10:04:28 | | 162304 | 432c52a3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DCULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷
+RegDB Val: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\DCULC\UNWISE.EXE C:\DCULC\INSTALL.LOG
+File Overwrite: C:\DCULC\dculc.exe | | | | 577536 | 619cbd27
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.cfg | 04-30-2005 | 14:15:42 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dof | 04-30-2005 | 14:15:42 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.dpr | 01-21-2001 | 15:59:56 | | 237 | 9a5c2b4f
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\demo24c01.res | 04-30-2005 | 14:05:00 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.dcu | 12-29-2006 | 17:45:50 | | 2111 | b431ebd3
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.pas | 12-29-2006 | 17:45:24 | | 2424 | c66903d2
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\drv_unit.~pas | 12-28-2006 | 10:06:06 | | 3387 | a05f8a4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dcu | 04-30-2005 | 14:22:04 | | 6106 | 9e765d49
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.ddp | 01-03-2007 | 16:48:20 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.dfm | 01-03-2007 | 16:48:12 | | 1560 | 47abc07c
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~ddp | 12-28-2006 | 10:06:52 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~dfm | 12-28-2006 | 10:04:00 | | 1560 | f04b2087
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c01\Test24c01.~pas | 04-30-2005 | 14:18:40 | | 2603 | a0894b40
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.cfg | 04-30-2005 | 14:29:44 | | 386 | 72845ecb
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dof | 04-30-2005 | 14:29:44 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.dpr | 09-09-2003 | 17:57:24 | | 309 | 52d9cd63
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\demo24c64.res | 04-30-2005 | 14:26:56 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.dcu | 12-29-2006 | 17:46:56 | | 2111 | 19617b53
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.pas | 12-29-2006 | 17:46:48 | | 2423 | b4396c25
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\drv_unit.~pas | 12-28-2006 | 10:09:04 | | 5748 | d1161db4
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dcu | 01-03-2007 | 16:47:34 | | 5983 | a5bded01
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.ddp | 01-03-2007 | 16:47:32 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.dfm | 01-03-2007 | 16:47:14 | | 1560 | b3ccc6
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.pas | 01-03-2007 | 16:47:22 | | 2622 | ca9cbc02
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~ddp | 04-30-2005 | 14:29:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~dfm | 01-21-2001 | 16:56:12 | | 1560 | b7532c3d
+File Overwrite: C:\DCULC\Examples\delphi3.0\24c64\Test24c64.~pas | 04-30-2005 | 14:27:30 | | 2609 | 1b93dd65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.cfg | 01-03-2007 | 16:45:28 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dof | 01-03-2007 | 16:45:28 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.dpr | 01-05-2004 | 14:06:12 | | 306 | 39537ff7
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\demo4428.res | 04-30-2005 | 14:30:04 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.dcu | 12-29-2006 | 17:49:30 | | 2660 | 9e010413
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.pas | 12-29-2006 | 17:47:54 | | 3148 | d97e636b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\drv_unit.~pas | 12-28-2006 | 10:12:24 | | 6472 | fd1d3e65
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dcu | 01-03-2007 | 16:45:02 | | 7711 | 13301084
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.ddp | 01-03-2007 | 16:45:26 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.dfm | 01-03-2007 | 16:44:00 | | 1905 | 705bec98
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.pas | 01-03-2007 | 16:44:26 | | 4091 | 731fb05d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~ddp | 12-29-2006 | 17:49:28 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~dfm | 01-05-2004 | 13:43:34 | | 1905 | f0fecadb
+File Overwrite: C:\DCULC\Examples\delphi3.0\4428\Test4428.~pas | 12-29-2006 | 17:49:08 | | 4078 | 1160d389
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.cfg | 01-03-2007 | 16:40:40 | | 386 | 513f8f4d
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dof | 01-03-2007 | 16:40:40 | | 1414 | 8d7c136b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.dpr | 09-10-2003 | 10:26:14 | | 304 | 9a2e61ea
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\demo4442.res | 04-30-2005 | 14:32:02 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.dcu | 12-29-2006 | 18:08:50 | | 2111 | 3a5a0cf8
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.pas | 12-29-2006 | 18:08:36 | | 2424 | bcc4889b
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\drv_unit.~pas | 12-28-2006 | 10:13:12 | | 5735 | 22b4e299
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dcu | 01-03-2007 | 16:36:34 | | 7180 | 709b549a
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.ddp | 01-03-2007 | 16:40:38 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.dfm | 01-03-2007 | 16:38:26 | | 1905 | 91c09ce3
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~ddp | 01-03-2007 | 16:36:30 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~dfm | 01-21-2001 | 15:29:40 | | 1905 | 1165baa0
+File Overwrite: C:\DCULC\Examples\delphi3.0\4442\Test4442.~pas | 01-03-2007 | 16:36:16 | | 3629 | 4562ecef
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.cfg | 12-10-2003 | 13:52:18 | | 386 | ac143ce2
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dof | 12-10-2003 | 13:52:18 | | 1096 | 811e47ad
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.dpr | 12-10-2003 | 13:52:18 | | 233 | 84b6606d
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\CPU_TEST.res | 12-10-2003 | 11:13:50 | | 876 | 57aba1c5
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dcu | 01-03-2007 | 16:34:12 | | 5471 | 305b9940
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.ddp | 01-03-2007 | 16:34:10 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.pas | 01-03-2007 | 16:34:10 | | 2044 | 551b4278
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~ddp | 01-03-2007 | 16:33:36 | | 51 | 4fc2fcbe
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~dfm | 12-29-2006 | 18:09:34 | | 1019 | a2abcee7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\cpu_unit.~pas | 01-03-2007 | 16:33:16 | | 2029 | afec9ec7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.dcu | 12-29-2006 | 18:09:36 | | 822 | 604ef64
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas | 12-28-2006 | 10:13:52 | | 679 | e7d082e7
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.pas.bak | 12-10-2003 | 14:48:56 | | 684 | 74e68f73
+File Overwrite: C:\DCULC\Examples\delphi3.0\cpu\declare_unit.~pas | 04-28-2005 | 10:10:28 | | 674 | 164a3a5
+File Overwrite: C:\DCULC\Examples\pb6.5\24c01\test24c01.PBL | 01-03-2007 | 17:19:08 | | 33792 | f25ea6b8
+File Overwrite: C:\DCULC\Examples\pb6.5\24c64\test24c64.PBL | 01-03-2007 | 17:18:22 | | 33792 | d6e2d8cb
+File Overwrite: C:\DCULC\Examples\pb6.5\4428\tess4428.pbl | 01-03-2007 | 17:15:56 | | 38912 | b78d98b
+File Overwrite: C:\DCULC\Examples\pb6.5\4442\test4442.PBL | 01-03-2007 | 17:14:12 | | 37376 | 58b36c16
+File Overwrite: C:\DCULC\Examples\pb6.5\Cpu\cpu.pbl | 01-03-2007 | 17:11:28 | | 24064 | 5598e884
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\frm24c01.frm | 12-29-2006 | 17:15:04 | | 4766 | 6d76b1d3
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Ic32.bas | 12-29-2006 | 17:15:04 | | 1357 | af776db8
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.VBP | 12-29-2006 | 17:15:04 | | 625 | 66c167e7
+File Overwrite: C:\DCULC\Examples\vb6.0\24c01\Test24c01.vbw | 01-03-2007 | 16:48:50 | | 83 | 501f04bb
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\frm24c64.frm | 12-29-2006 | 17:10:36 | | 4716 | 7db88403
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Ic32.bas | 12-29-2006 | 17:04:34 | | 3334 | 3bd488a6
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.VBP | 12-29-2006 | 17:10:36 | | 625 | 1c3c8e71
+File Overwrite: C:\DCULC\Examples\vb6.0\24c64\Test24c64.vbw | 01-03-2007 | 16:48:58 | | 83 | 95367346
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Frm4428.frm | 12-29-2006 | 17:03:16 | | 6074 | add894d5
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Ic32.bas | 12-29-2006 | 17:01:42 | | 3122 | a23c8b49
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbp | 12-29-2006 | 17:03:18 | | 599 | f22e55dc
+File Overwrite: C:\DCULC\Examples\vb6.0\4428\Test4428.vbw | 01-03-2007 | 16:49:04 | | 82 | de20d2d9
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Frm4442.frm | 01-03-2007 | 16:14:42 | | 6130 | 5261ff9b
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Ic32.bas | 12-29-2006 | 16:57:36 | | 3228 | 1e8f2660
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbp | 01-03-2007 | 16:14:42 | | 599 | 6af6669d
+File Overwrite: C:\DCULC\Examples\vb6.0\4442\Test4442.vbw | 01-03-2007 | 16:49:14 | | 81 | 8433b332
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbp | 01-03-2007 | 16:09:08 | | 642 | 7e13ccd3
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\cpu.vbw | 01-03-2007 | 16:49:28 | | 82 | 91743eeb
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\frmcpu.Frm | 01-03-2007 | 16:09:08 | | 4937 | 416af091
+File Overwrite: C:\DCULC\Examples\vb6.0\cpu\Ic32.bas | 12-29-2006 | 16:56:06 | | 2571 | 3c3d220e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.cpp | 09-17-2003 | 09:28:02 | | 2071 | 81071b96
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsp | 12-28-2006 | 10:36:32 | | 4264 | a32df3ee
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.dsw | 09-17-2003 | 09:28:02 | | 535 | db8766fb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.h | 09-17-2003 | 09:28:02 | | 1323 | 7dea33fa
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.plg | 01-03-2007 | 16:16:44 | | 1626 | fea1efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01.rc | 04-19-2005 | 17:22:46 | | 4742 | 967c538d
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.cpp | 01-03-2007 | 16:07:50 | | 5739 | ad76c228
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\24C01Dlg.h | 04-19-2005 | 17:08:58 | | 1366 | 8f58f42e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.h | 12-29-2006 | 16:24:54 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\ReadMe.txt | 09-17-2003 | 09:28:02 | | 3567 | 709cb11e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.ico | 09-17-2003 | 09:28:02 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\res\24C01.rc2 | 09-17-2003 | 09:28:02 | | 397 | 250b33e0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\Resource.h | 09-17-2003 | 09:40:20 | | 683 | 4ed1efef
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.cpp | 09-17-2003 | 09:28:02 | | 207 | e4b833b7
+File Overwrite: C:\DCULC\Examples\vc6.0\24c01\StdAfx.h | 09-17-2003 | 09:28:02 | | 1054 | 7c5269ac
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.cpp | 09-17-2003 | 09:59:28 | | 2071 | 6cb9a608
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsp | 12-28-2006 | 10:35:22 | | 4204 | 4f5a9287
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.dsw | 09-17-2003 | 09:59:28 | | 535 | eee274bb
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.h | 09-17-2003 | 09:59:28 | | 1323 | b2fd55cc
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.plg | 01-03-2007 | 16:16:24 | | 1626 | c814043e
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64.rc | 09-17-2003 | 10:04:16 | | 4615 | 5de55c5f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.cpp | 01-03-2007 | 16:07:14 | | 5452 | a8ce5f0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\24C64Dlg.h | 09-17-2003 | 10:06:38 | | 1366 | 56a5f695
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\ReadMe.txt | 09-17-2003 | 09:59:28 | | 3567 | 23e41c7f
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.ico | 09-17-2003 | 09:59:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\res\24C64.rc2 | 09-17-2003 | 09:59:28 | | 397 | 2093fd9
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\Resource.h | 09-17-2003 | 10:04:16 | | 683 | e1fe4fe0
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.cpp | 09-17-2003 | 09:59:28 | | 207 | aedfe1f8
+File Overwrite: C:\DCULC\Examples\vc6.0\24c64\StdAfx.h | 09-17-2003 | 09:59:28 | | 1054 | eb3db815
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.cpp | 09-17-2003 | 16:13:30 | | 2057 | 5659567b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsp | 12-28-2006 | 10:38:44 | | 4182 | 16528136
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.dsw | 09-17-2003 | 16:13:30 | | 533 | 2de8cbad
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.h | 09-17-2003 | 16:13:30 | | 1312 | adea7b2f
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.plg | 01-03-2007 | 16:16:06 | | 1583 | 92376df7
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428.rc | 09-17-2003 | 16:21:08 | | 4605 | ea6e8c9c
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.cpp | 01-03-2007 | 16:06:58 | | 8031 | baf702e6
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\4428Dlg.h | 09-17-2003 | 16:43:04 | | 1355 | 2df38560
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\ReadMe.txt | 09-17-2003 | 16:13:30 | | 3549 | 7702205b
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.ico | 09-17-2003 | 16:13:30 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\res\4428.rc2 | 09-17-2003 | 16:13:30 | | 396 | 47b8fedf
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\Resource.h | 09-17-2003 | 16:21:08 | | 682 | bb132861
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.cpp | 09-17-2003 | 16:13:30 | | 206 | f046f494
+File Overwrite: C:\DCULC\Examples\vc6.0\4428\StdAfx.h | 09-17-2003 | 16:13:30 | | 1054 | 338fa097
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.cpp | 09-17-2003 | 15:39:28 | | 2057 | d8c5dc1a
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsp | 12-28-2006 | 10:39:36 | | 4186 | 68941a73
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.dsw | 09-17-2003 | 15:39:28 | | 533 | 42414d4b
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.h | 09-17-2003 | 15:39:28 | | 1312 | f3046356
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.plg | 01-03-2007 | 16:15:44 | | 1607 | 14d43ed7
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442.rc | 09-17-2003 | 15:46:58 | | 4605 | f287ae68
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.cpp | 01-03-2007 | 16:05:56 | | 7145 | 2c5c65da
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\4442Dlg.h | 09-17-2003 | 15:47:52 | | 1355 | 96481ae9
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\ReadMe.txt | 09-17-2003 | 15:39:28 | | 3549 | dd4a8779
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.ico | 09-17-2003 | 15:39:28 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\res\4442.rc2 | 09-17-2003 | 15:39:28 | | 396 | e74824e5
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\Resource.h | 09-17-2003 | 15:46:58 | | 682 | aa1e9d20
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.cpp | 09-17-2003 | 15:39:28 | | 206 | 8713ee
+File Overwrite: C:\DCULC\Examples\vc6.0\4442\StdAfx.h | 09-17-2003 | 15:39:28 | | 1054 | fcf0c24d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.cpp | 12-10-2003 | 08:48:42 | | 2021 | f4775017
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsp | 12-28-2006 | 10:40:54 | | 4064 | 236f1e46
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.dsw | 12-10-2003 | 08:48:44 | | 531 | 5faa205e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.h | 12-10-2003 | 08:48:42 | | 1291 | 2306a30b
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.plg | 01-03-2007 | 16:15:16 | | 1549 | 68d43fa5
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpu.rc | 01-03-2007 | 13:33:52 | | 4712 | b848592d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.cpp | 01-03-2007 | 16:06:40 | | 4285 | f64e250d
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\cpuDlg.h | 04-28-2005 | 09:49:54 | | 1397 | f95c6538
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.h | 12-29-2006 | 16:25:40 | | 4782 | 5ea319c1
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\ReadMe.txt | 12-10-2003 | 08:48:42 | | 3525 | 40c71470
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.ico | 12-10-2003 | 08:48:42 | | 1078 | 120de4e4
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\res\cpu.rc2 | 12-10-2003 | 08:48:42 | | 395 | 7db8eda9
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\Resource.h | 12-10-2003 | 09:10:14 | | 865 | b703697e
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.cpp | 12-10-2003 | 08:48:42 | | 205 | dc80d147
+File Overwrite: C:\DCULC\Examples\vc6.0\cpu\StdAfx.h | 12-10-2003 | 08:48:42 | | 1054 | a97bad4a
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.SCT | 01-03-2007 | 17:07:02 | | 8662 | 2c5182dc
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c01\test24c01.scx | 01-03-2007 | 17:07:02 | | 1905 | b50c87d6
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.SCT | 01-03-2007 | 17:05:44 | | 7105 | 96dd83d9
+File Overwrite: C:\DCULC\Examples\vfp6.0\24c64\test24c64.scx | 01-03-2007 | 17:05:44 | | 1905 | f78afa62
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.SCT | 01-03-2007 | 17:04:36 | | 11233 | 386ec94e
+File Overwrite: C:\DCULC\Examples\vfp6.0\4428\test4428.scx | 01-03-2007 | 17:04:36 | | 1905 | b739f6cd
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.SCT | 01-03-2007 | 16:58:44 | | 10613 | be776b0
+File Overwrite: C:\DCULC\Examples\vfp6.0\4442\test4442.scx | 01-03-2007 | 16:58:44 | | 1905 | 754c00b
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.SCT | 01-03-2007 | 16:56:00 | | 6798 | aec54655
+File Overwrite: C:\DCULC\Examples\vfp6.0\cpu\cpu.scx | 01-03-2007 | 16:56:00 | | 1905 | 779647fb
+File Overwrite: C:\DCULC\rDhelp.chm | 01-25-2007 | 09:32:30 | | 75001 | 36a15573
+File Overwrite: C:\DCULC\Windows.dll\dculc.dll | 12-29-2006 | 11:00:10 | 2.0.1.1 | 122880 | a1732456
+File Overwrite: C:\DCULC\Windows.dll\dculc.h | 01-03-2007 | 14:50:00 | | 4779 | 68fca81a
+File Overwrite: C:\DCULC\Windows.dll\dculc.lib | 12-29-2006 | 12:35:50 | | 46456 | 4083efe2
+File Overwrite: C:\Windows\System32\dculc.dll | | | | 122880 | a1732456
+File Overwrite: C:\Windows\System32\dculc.dll | | | | 122880 | a1732456
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\Demo.lnk
+Link Info: C:\DCULC\dculc.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DLULCÏµÁÐÖÇÄÜ¿¨¶ÁÐ´Æ÷\DCLUC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Administrator\Desktop\DCULC.lnk
+Link Info: C:\DCULC\rDhelp.chm |  |  | 0 | 1 | 0 | 
+User Rights: Admin
