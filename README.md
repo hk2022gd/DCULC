@@ -2,6 +2,8 @@
 
 一款现代化的接触式智能卡读写工具，支持多种常见的逻辑加密卡和存储卡。
 
+![应用界面](DCULC_Modern_App/界面.bmp)
+
 ## ✨ 功能特性
 
 ### 读写操作
@@ -91,6 +93,13 @@ DCULC_Modern_App/
 - **密码尝试次数有限**：SLE4442 只有 3 次，SLE4428 只有 8 次，用完后卡片将永久锁定
 - **必须使用 32 位 Python**：DLL 为 32 位，需要匹配的 Python 环境
 - **保持卡片稳定**：读写过程中请勿移动卡片
+
+## 📬 联系我们
+
+如果您在使用过程中遇到问题，欢迎通过以下方式联系：
+
+- **GitHub Issues**: [https://github.com/hk2022gd/DCULC/issues](https://github.com/hk2022gd/DCULC/issues)
+- **邮箱**: nfcbay@163.com
 
 ## 📄 License
 

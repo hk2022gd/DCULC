@@ -83,6 +83,15 @@ document.getElementById('btn-save').addEventListener('click', saveDump);
 document.getElementById('btn-load').addEventListener('click', () => document.getElementById('file-input').click());
 document.getElementById('file-input').addEventListener('change', loadDump);
 
+// Contact dropdown toggle
+document.getElementById('btn-contact').addEventListener('click', (e) => {
+    e.stopPropagation();
+    const dropdown = document.getElementById('contact-dropdown');
+    dropdown.style.display = dropdown.style.display === 'none' ? 'block' : 'none';
+});
+document.addEventListener('click', () => {
+    document.getElementById('contact-dropdown').style.display = 'none';
+});
 
 // Functions
 function saveDump() {
