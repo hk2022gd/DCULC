@@ -93,16 +93,10 @@
                 <!-- Operation Section -->
                 <div class="panel-section">
                     <div class="section-title">读写操作</div>
-                    <div class="form-group">
-                        <label>起始地址 (Offset)</label>
-                        <input type="number" id="input-offset" value="0" min="0">
-                    </div>
-                    <div class="form-group">
-                        <label>长度 (Length)</label>
-                        <input type="number" id="input-length" value="16" min="1">
-                    </div>
+                    <div id="card-size-info"
+                        style="font-size: 0.75rem; color: var(--text-secondary); margin-bottom: 0.5rem;"></div>
                     <div style="display:flex; gap: 0.5rem;">
-                        <button class="btn btn-primary" id="btn-read" disabled>读取</button>
+                        <button class="btn btn-primary" id="btn-read" disabled>整卡读取</button>
                         <button class="btn btn-secondary" id="btn-write" disabled>写入修改</button>
                     </div>
                 </div>

@@ -12,8 +12,7 @@ const els = {
     btnSetType: document.getElementById('btn-set-type'),
     btnAutoDetect: document.getElementById('btn-auto-detect'),
 
-    inputOffset: document.getElementById('input-offset'),
-    inputLength: document.getElementById('input-length'),
+    cardSizeInfo: document.getElementById('card-size-info'),
     btnRead: document.getElementById('btn-read'),
     btnWrite: document.getElementById('btn-write'),
 
@@ -36,6 +35,37 @@ let isConnected = false;
 let originalData = []; // Store original bytes for comparison
 let currentOffset = 0; // Store where we read from
 let isVerified = false; // For protected cards
+let currentCardSize = 256; // Default card size
+
+// Card size mapping
+const CARD_SIZES = {
+    '4442': 256,
+    '4432': 256,
+    '4428': 1024,
+    '4418': 1024,
+    '24C01': 128,
+    '24C02': 256,
+    '24C04': 512,
+    '24C08': 1024,
+    '24C16': 2048,
+    '24C64': 8192
+};
+
+// Helper function to set card size by type
+function setCardSizeByType(type) {
+    const upperType = type.toUpperCase();
+    // Find matching card type
+    for (const [key, size] of Object.entries(CARD_SIZES)) {
+        if (upperType.includes(key)) {
+            currentCardSize = size;
+            els.cardSizeInfo.textContent = `卡片容量: ${size} 字节`;
+            return;
+        }
+    }
+    // Default
+    currentCardSize = 256;
+    els.cardSizeInfo.textContent = `卡片容量: 256 字节 (默认)`;
+}
 
 // Event Listeners
 els.btnConnect.addEventListener('click', connectDevice);
@@ -368,17 +398,9 @@ async function detectCard() {
                 els.cardTypeSelect.value = "";
             }
 
-            // Auto-set length
+            // Set card size based on type
             const type = data.type.toUpperCase();
-            if (type.includes("4442")) els.inputLength.value = 256;
-            else if (type.includes("4428")) els.inputLength.value = 1024;
-            else if (type.includes("24C01")) els.inputLength.value = 128;
-            else if (type.includes("24C02")) els.inputLength.value = 256;
-            else if (type.includes("24C04")) els.inputLength.value = 512;
-            else if (type.includes("24C08")) els.inputLength.value = 1024;
-            else if (type.includes("24C16")) els.inputLength.value = 2048;
-            else if (type.includes("24C64")) els.inputLength.value = 8192;
-            else els.inputLength.value = 256; // Default
+            setCardSizeByType(type);
 
             checkProtection(type);
 
@@ -412,16 +434,9 @@ async function setCardType(type) {
             els.detectMsg.textContent = `已设置为: ${type}`;
             els.detectMsg.className = "success";
 
-            // Auto-set length for manual selection too
+            // Set card size for manual selection too
             const upperType = type.toUpperCase();
-            if (upperType.includes("4442")) els.inputLength.value = 256;
-            else if (upperType.includes("4428")) els.inputLength.value = 1024;
-            else if (upperType.includes("24C01")) els.inputLength.value = 128;
-            else if (upperType.includes("24C02")) els.inputLength.value = 256;
-            else if (upperType.includes("24C04")) els.inputLength.value = 512;
-            else if (upperType.includes("24C08")) els.inputLength.value = 1024;
-            else if (upperType.includes("24C16")) els.inputLength.value = 2048;
-            else if (upperType.includes("24C64")) els.inputLength.value = 8192;
+            setCardSizeByType(upperType);
 
             checkProtection(upperType);
         }
@@ -431,8 +446,8 @@ async function setCardType(type) {
 }
 
 async function readData() {
-    const offset = parseInt(els.inputOffset.value);
-    const length = parseInt(els.inputLength.value);
+    const offset = 0; // Always start from 0
+    const length = currentCardSize; // Use auto-detected size
 
     els.hexContainer.innerHTML = '<div class="loading"></div>Reading...';
     // Don't disable write if verified (or handled by checkProtection logic)
